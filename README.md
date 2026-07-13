@@ -1,7 +1,7 @@
 # Dream
 
 import { useState, useEffect, useRef } from "react";
-import { Sparkles, Save, Trash2, Loader2, ImageOff, Wand2 } from "lucide-react";
+import { Sparkles, Save, Trash2, Loader2, I mageOff, Wand2 } from "lucide-react";
 
 const STYLES = [
   { label: "Vivid", suffix: "vivid colors, dramatic lighting, hyperdetailed" },
